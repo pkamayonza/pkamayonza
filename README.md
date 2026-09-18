@@ -1,7 +1,18 @@
-## Hi there 👋
+### Hi, I'm Patience 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Solo technical founder based in Kampala, Uganda, building **Athena**, a clinical 
+decision support system that auto-populates Uganda MOH treatment protocols from 
+diagnosis, age, and weight inputs, so clinicians prescribe consistently even 
+under time pressure.
+
+- 🏥 **Currently building:** Athena 
+- 💼 **Freelance:** Building production web apps and multi-tenant systems for Kampala businesses using freelance work as both income and 
+  real-world customer discovery for the startup
+- 🌍 I am mostly self-taught
+
+> "Evidence-based care, made consistent."
+
+📫 Reach me on LinkedIn or open an issue on any of my repos.
 
 
 ## 🌐 Socials:
